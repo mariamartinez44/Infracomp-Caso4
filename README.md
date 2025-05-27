@@ -10,4 +10,4 @@ Con la configuración definida, se corrieron las pruebas, modificando el archivo
 
 Debido a que estos arechivos son extensos, se optó por realizar el procesamiento de datos para obtención de resultados directamente en la instancia con ip 172.23.66.92, usando el código mostrado en codigoProcesamientoResultados.py. 
 
-No se incluyen los archivos "resultsXXXX" retornados ya que no se considera relevante, en caso de querer revisarlos, se sugiere al usuario coneictarse a ambas IPs y usar el comando ls en la terminal de la IP 172.23.66.92.
+No se incluyen los archivos "resultsXXXX" retornados ya que no se considera relevante, en caso de querer revisarlos, se sugiere al usuario conectarse con la terminal de la IP 172.23.66.92 y usar el comando ls.
